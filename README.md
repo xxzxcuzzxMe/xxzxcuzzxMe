@@ -9,6 +9,7 @@
 -Numpy<br>
 -SKLearn<br>
 -PostGreSQL<br>
+-AirFlow <br>
 <h1>Other skills:</h1><br>
 -HTML<br>
 -CSS (sass/scss)<br>
