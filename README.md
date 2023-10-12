@@ -1,18 +1,18 @@
 <h1 align="center">Adel, 23 yo </h1>
 <h3 align="center">Trying to be Ml engineer </h3>
 <h4align='left'>ML skills:
--Python
--Pandas 
--Matplotlib
--Numpy
--SKLearn
--PostGreSQL
-Other skills:
--HTML
--CSS (sass/scss)
--JavaScript
--React.js
--TypeScript
--Git
--Docker 
--Adobe Premiere Pro/After Effects </h4>
+-Python <br>
+-Pandas <br>
+-Matplotlib<br>
+-Numpy<br>
+-SKLearn<br>
+-PostGreSQL<br>
+Other skills:<br>
+-HTML<br>
+-CSS (sass/scss)<br>
+-JavaScript<br>
+-React.js<br>
+-TypeScript<br>
+-Git<br>
+-Docker <br>
+-Adobe Premiere Pro/After Effects<br> </h4>
