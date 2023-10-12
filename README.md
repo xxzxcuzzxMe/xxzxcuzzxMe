@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=0.1&pause=1000&color=1BF700&repeat=false&random=false&width=435&lines=Adel%2C+23+yo)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF700&random=false&width=435&lines=Trying+to+be+ML+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=1BF700&random=false&width=435&lines=Trying+to+be+ML+engineer)](https://git.io/typing-svg)
 <h2 align="left">ML skills:</h3>
 <li>Python</li> <br>
 <li>Pandas</li> <br>
