@@ -8,7 +8,7 @@
 <div style=display: flex;
     justify-content: space-between;>
   <div style=align-self: flex-start;>
-    <h2 align="left">ML skills:</h2>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=150&color=6E2594&multiline=true&random=false&width=520&height=85&lines=ML+skills+%3A)](https://git.io/typing-svg)
     <ul>
       <li>Python</li>
       <li>Pandas</li>
