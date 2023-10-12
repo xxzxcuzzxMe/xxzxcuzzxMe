@@ -19,10 +19,10 @@
 <li>Adobe Premiere Pro/After Effects</li><br> </h4>
 
 
-<h1> codewars stats:</h1>  
+<h2 align="left"> codewars stats:</h2>  
 
 ![codewars](https://www.codewars.com/users/%20xxzxcuzzxme/badges/large)
 
-<h1> leetcode stats:</h1>
+<h2 align="left"> leetcode stats:</h2>
 
 ![xxzxcuzzxMe's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xxzxcuzzxMe&theme=dark)
