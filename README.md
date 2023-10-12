@@ -1,28 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=0.1&pause=1000&color=1BF700&repeat=false&random=false&width=435&lines=Adel%2C+23+yo)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=1BF700&random=false&width=435&lines=Trying+to+be+ML+engineer)](https://git.io/typing-svg)
+
+
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  .container {
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .ml-skills {
-    align-self: flex-start;
-  }
-
-  .other-skills {
-    text-align: center;
-    align-self: center;
-  }
-</style>
 </head>
 <body>
 
-<div class="container">
-  <div class="ml-skills">
+<div style=display: flex;
+    justify-content: space-between;>
+  <div style=align-self: flex-start;>
     <h2 align="left">ML skills:</h2>
     <ul>
       <li>Python</li>
@@ -34,7 +22,8 @@
       <li>AirFlow</li>
     </ul>
   </div>
-  <div class="other-skills">
+  <div style=text-align: center;
+    align-self: center;>
     <h2 align="left">Other skills:</h2>
     <ul>
       <li>HTML</li>
