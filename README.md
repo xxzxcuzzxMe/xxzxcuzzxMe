@@ -5,18 +5,18 @@
 <li>Pandas</li> <br>
 <li>Matplotlib</li><br>
 <li>Numpy</li><br>
-<<li>SKLearn</li><br>
+<li>SKLearn</li><br>
 <li>PostGreSQL</li><br>
 <li>AirFlow</li> <br>
-<h1>Other skills:</h1><br>
--HTML<br>
--CSS (sass/scss)<br>
--JavaScript<br>
--React.js<br>
--TypeScript<br>
--Git<br>
--Docker <br>
--Adobe Premiere Pro/After Effects<br> </h4>
+<h1><ul>Other skills:</ul></h1><br>
+<li>HTML</li><br>
+<li>CSS (sass/scss)</li><br>
+<li>JavaScript</li><br>
+<li>React.js</li><br>
+<li>TypeScript</li><br>
+<li>Git</li><br>
+<li>Docker</li> <br>
+<li>Adobe Premiere Pro/After Effects</li><br> </h4>
 
 
 <h1> codewars stats:</h1>  
