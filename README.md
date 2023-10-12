@@ -19,4 +19,4 @@
 -Docker <br>
 -Adobe Premiere Pro/After Effects<br> </h4>
   
-[![codewars](https://www.codewars.com/users/%20xxzxcuzzxme/badges/large)
+[codewars](https://www.codewars.com/users/%20xxzxcuzzxme/badges/large)
