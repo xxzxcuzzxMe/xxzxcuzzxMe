@@ -8,7 +8,7 @@
 <li>SKLearn</li><br>
 <li>PostGreSQL</li><br>
 <li>AirFlow</li><br>
-<h2 align="left">Other skills:</h1><br>
+<h2 align="left">Other skills:</h1>
 <li>HTML</li><br>
 <li>CSS (sass/scss)</li><br>
 <li>JavaScript</li><br>
