@@ -10,6 +10,7 @@
   <div style=align-self: flex-start;>
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=0.1&pause=150&color=6E2594&multiline=true&repeat=false&random=false&width=520&height=35&lines=ML+skills+%3A)](https://git.io/typing-svg)
+<hr>
     <ul>
       <li>Python</li>
       <li>Pandas</li>
