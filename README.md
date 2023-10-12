@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF700&random=false&width=435&lines=Trying+to+be+ML+engineer)](https://git.io/typing-svg)
 
-<h4align='left'><h1>ML skills:<br> </h1>
+<h1>ML skills:<br> </h1>
 -Python <br>
 -Pandas <br>
 -Matplotlib<br>
@@ -19,4 +19,4 @@
 -Docker <br>
 -Adobe Premiere Pro/After Effects<br> </h4>
   
-[[![codewars](https://www.codewars.com/users/xxzxcuzzxme/badges/small)](https://www.codewars.com/users/xxzxcuzzxme)]
+[![codewars](https://www.codewars.com/users/xxzxcuzzxme/badges/small)](https://www.codewars.com/users/xxzxcuzzxme)]
