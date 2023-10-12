@@ -8,8 +8,10 @@
 <div style=display: flex;
     justify-content: space-between;>
   <div style=align-self: flex-start;>
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=150&color=6E2594&multiline=true&random=false&width=520&height=85&lines=ML+skills+%3A)](https://git.io/typing-svg)
-    <ul>
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=150&color=6E2594&multiline=true&random=false&width=520&height=85&lines=ML+skills+%3A)](https://git.io/typing-svg)
+    
+<ul>
       <li>Python</li>
       <li>Pandas</li>
       <li>Matplotlib</li>
@@ -17,7 +19,7 @@
       <li>SKLearn</li>
       <li>PostGreSQL</li>
       <li>AirFlow</li>
-    </ul>
+</ul>
   </div>
   <div style=text-align: center;
     align-self: center;>
