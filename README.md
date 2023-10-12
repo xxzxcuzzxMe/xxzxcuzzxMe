@@ -1,5 +1,7 @@
 <h1 align="center">Adel, 23 yo </h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF700&random=false&width=435&lines=Trying+to+be+ML+engineer)](https://git.io/typing-svg)
+
 <h4align='left'><h1>ML skills:<br> </h1>
 -Python <br>
 -Pandas <br>
@@ -16,5 +18,5 @@
 -Git<br>
 -Docker <br>
 -Adobe Premiere Pro/After Effects<br> </h4>
-<a src = 'https://www.codewars.com/users/%20xxzxcuzzxme'>Codewars </a>
+  
 [[![codewars](https://www.codewars.com/users/xxzxcuzzxme/badges/small)](https://www.codewars.com/users/xxzxcuzzxme)]
