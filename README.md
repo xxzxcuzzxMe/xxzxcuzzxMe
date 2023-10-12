@@ -1,15 +1,15 @@
-<h1 align="center">Adel, 23 yo </h1>
+<h1>Adel, 23 yo </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF700&random=false&width=435&lines=Trying+to+be+ML+engineer)](https://git.io/typing-svg)
 
 <h1>ML skills:<br> </h1>
--Python <br>
--Pandas <br>
--Matplotlib<br>
--Numpy<br>
--SKLearn<br>
--PostGreSQL<br>
--AirFlow <br>
+-Python. <br>
+-Pandas. <br>
+-Matplotlib.<br>
+-Numpy.<br>
+-SKLearn.<br>
+-PostGreSQL.<br>
+-AirFlow. <br>
 <h1>Other skills:</h1><br>
 -HTML<br>
 -CSS (sass/scss)<br>
