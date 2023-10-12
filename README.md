@@ -23,8 +23,10 @@
   </div>
   <div style=text-align: center;
     align-self: center;>
-    <h2 align="left">Other skills:</h2>
-    <ul>
+      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=0.1&pause=150&color=6E2594&multiline=true&repeat=false&random=false&width=520&height=35&lines=Other+skills%3A)](https://git.io/typing-svg)
+<hr>    
+<ul>
       <li>HTML</li>
       <li>CSS (sass/scss)</li>
       <li>JavaScript</li>
