@@ -2,15 +2,18 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+</style>
 </head>
 <body>
 
-<div style=display: flex;
-    justify-content: space-between;>
-  <div style=align-self: flex-start;>
-      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=0.1&pause=150&color=6E2594&multiline=true&repeat=false&random=false&width=520&height=35&lines=ML+skills+%3A)](https://git.io/typing-svg)
-<hr>
+<div class="container">
+  <div class="ml-skills" style="text-align: left;">
+    <h2 align="left" style="color: #6e2594;">ML skills:</h2>
     <ul>
       <li>Python</li>
       <li>Pandas</li>
@@ -19,14 +22,11 @@
       <li>SKLearn</li>
       <li>PostGreSQL</li>
       <li>AirFlow</li>
-</ul>
+    </ul>
   </div>
-  <div style=text-align: center;
-    align-self: center;>
-      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=0.1&pause=150&color=6E2594&multiline=true&repeat=false&random=false&width=520&height=35&lines=Other+skills%3A)](https://git.io/typing-svg)
-<hr>    
-<ul>
+  <div class="other-skills" style="text-align: center;">
+    <h2 align="left">Other skills:</h2>
+    <ul>
       <li>HTML</li>
       <li>CSS (sass/scss)</li>
       <li>JavaScript</li>
@@ -39,7 +39,8 @@
   </div>
 </div>
 
-</body>
+
+
 
 
 
@@ -51,4 +52,5 @@
 <h2 align="left"> leetcode stats:</h2>
 
 ![xxzxcuzzxMe's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xxzxcuzzxMe&theme=dark)
+</body>
 </html>
