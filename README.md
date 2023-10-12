@@ -2,12 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  .container {
-    display: flex;
-    justify-content: space-between;
-  }
-</style>
 </head>
 <body>
 
