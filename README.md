@@ -26,4 +26,4 @@
 
 <h1> leetcode stats:</h1>
 
-![xxzxcuzzxMe's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xxzxcuzzxMe&theme=dark)](https://github.com/xxzxcuzzxMe/leetcode-stats)
+![xxzxcuzzxMe's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xxzxcuzzxMe&theme=dark)]
