@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2000&pause=150&color=1BF700&multiline=true&random=false&width=600&height=85&lines=Adel%2C+23+yo;Trying+to+become+a+ML+engineer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2000&pause=150&color=1BF700&multiline=true&random=false&width=620&height=85&lines=Adel%2C+23+yo;Trying+to+become+a+ML+engineer)](https://git.io/typing-svg) 
 <!DOCTYPE html>
 <html>
 <head>
