@@ -16,6 +16,7 @@
       <li>SKLearn</li>
       <li>PostGreSQL</li>
       <li>AirFlow</li>
+      <li>SqlAlchemy</li>
     </ul>
   </div>
   <div class="other-skills" style="text-align: center;">
