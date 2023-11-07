@@ -18,6 +18,7 @@
       <li>AirFlow</li>
       <li>SqlAlchemy</li>
       <li>FastAPI</li>
+      <li>Seaborn</li>
     </ul>
   </div>
   <div class="other-skills" style="text-align: center;">
