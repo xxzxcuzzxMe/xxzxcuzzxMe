@@ -17,6 +17,7 @@
       <li>PostGreSQL</li>
       <li>AirFlow</li>
       <li>SqlAlchemy</li>
+      <li>FastAPI</li>
     </ul>
   </div>
   <div class="other-skills" style="text-align: center;">
