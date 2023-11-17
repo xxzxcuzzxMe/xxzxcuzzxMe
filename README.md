@@ -46,8 +46,5 @@
 
 ![codewars](https://www.codewars.com/users/%20xxzxcuzzxme/badges/large)
 
-<h2 align="left"> leetcode stats:</h2>
-
-![xxzxcuzzxMe's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xxzxcuzzxMe&theme=dark)
 </body>
 </html>
