@@ -19,6 +19,9 @@
       <li>SqlAlchemy</li>
       <li>FastAPI</li>
       <li>Seaborn</li>
+      <li>CatBoost</li>
+      <li>XGBoost</li>
+      <li>LightGBM</li>
     </ul>
   </div>
   <div class="other-skills" style="text-align: center;">
